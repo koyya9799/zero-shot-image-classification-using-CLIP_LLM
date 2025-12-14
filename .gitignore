@@ -56,3 +56,10 @@ ENV/
 # IDEs
 .idea/
 .vscode/
+venv/
+venv310/
+__pycache__/
+node_modules/
+.env
+.next/
+
