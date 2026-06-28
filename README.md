@@ -3,6 +3,37 @@
 
 Quick start guide for running the full stack locally.
 
+# Zero-Shot Image Classification using CLIP & LLM
+
+...
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page]<img width="1470" height="956" alt="home page" src="https://github.com/user-attachments/assets/9a0233f8-5ebc-4019-beb7-540b10239bfe" />
+
+
+### Upload & Classify
+
+![Upload & classify]<img width="1470" height="956" alt="Upload   Classify page" src="https://github.com/user-attachments/assets/75bf84b5-1bef-4c56-a98b-7e0dce90d656" />
+
+
+### Uploading
+
+![Uploading]<img width="1470" height="956" alt="Upload image" src="https://github.com/user-attachments/assets/455d1037-7905-49ee-914e-5bfdbdc607ed" />
+
+
+### Medical Image Classification
+
+![Medical]<img width="1470" height="956" alt="Classifying" src="https://github.com/user-attachments/assets/cf229ad5-ab7b-4ce3-b730-3be520d73915" />
+
+
+### Result page
+
+![Result]<img width="1470" height="956" alt="Results" src="https://github.com/user-attachments/assets/b8ed4763-3628-487c-8f10-882e4de86ffc" />
+
+
 ## Prerequisites
 
 - Python 3.10+
